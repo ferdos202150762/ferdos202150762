@@ -1,7 +1,5 @@
 ## Hola!
 
-<!--
-**ferdos202150762/ferdos202150762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a PhD student in Mathematics Supervised by Bernhard von Stengel and I work as a Data Scientist in the ML Research Lab at Foster and Partners deveopling Machine Learning and Optimisation algorithms. 
 
