@@ -6,7 +6,7 @@ I am a PhD student in Mathematics Supervised by Bernhard von Stengel and I work 
 
 
 - 🔭 In the PhD I’m currently working on ML algorithms to solve Team Games and algorithms that make Game Theory solutions scalable. 
-- 🏢 In Foster and Partners I’m currently working in floor plan generation, auction theory for plot allocation and image VAR deep learning models. 
+- 🏢 In Foster and Partners I’m currently working in floor plan generation, VAR deep learning models. 
 - 🌱 I’m currently learning JAX, Omniverse from Nvidia and Combinatorial Optimisation
 - 🤔 I’m passionate about philosophy, design, mathematics, logic and architecture. 
 - 📫 How to reach me: f.aristi-reina@lse.ac.uk
